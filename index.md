@@ -59,7 +59,7 @@ address.
 {% endcomment %}
 
 <p id="where">
-  <strong>Where:</strong>This training will take place in person as well as online. The organizers will provide you with the information you will need to connect to this meeting.
+  <strong>Where:</strong>This training will be delivered in hybrid format. The organizers will provide online participants with the information needed to connect to this workshop.
 </p>
 
 {% comment %}
