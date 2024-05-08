@@ -16,17 +16,15 @@
       <article role="tabpanel" class="tab-pane active" id="shell-windows">
         <ol>
           <li>Download the Git for Windows <a href="https://gitforwindows.org/">installer</a>.</li>
-          <li>Run the installer and follow the steps below:
+          <li>Run the installer by double-clicking it and follow the steps below:
             <ol>
               {% comment %} Git 2.29.1 Setup {% endcomment %}
               <li>
-                Click on "Next" four times (two times if you've previously
-                installed Git).  You don't need to change anything
-                in the Information, location, components, and start menu screens.
+                Click on "Next" until you reach the page that says "Choosing the default editor used by Git".
               </li>
               <li>
                 <strong>
-                  From the dropdown menu, "Choosing the default editor used by Git", select "Use the Nano editor by default" (NOTE: you will need to scroll <emph>up</emph> to find it) and click on "Next".
+                  On the page that says "Choosing the default editor used by Git", ensure that "Use the Nano editor by default" is selected and click on "Next".
                 </strong>
               </li>
               {% comment %} Adjusting the name of the initial branch in new repositories {% endcomment %}
@@ -40,40 +38,40 @@
               </li>
               {% comment %} Adjusting your PATH environment {% endcomment %}
               <li>
-                Ensure that "Git from the command line and also from 3rd-party software" is selected and
+                On the page that says "Adjusting your PATH environment", ensure that "Git from the command line and also from 3rd-party software" is selected and
                 click on "Next". (If you don't do this Git Bash will not work properly, requiring you to
                 remove the Git Bash installation, re-run the installer and to select the "Git from the
                 command line and also from 3rd-party software" option.)
               </li>
               {% comment %} Choosing the SSH executable {% endcomment %}
  	      <li>
-	      Select "Use bundled OpenSSH".
+	      On the page that says "Choosing he SSH executable", ensure that "Use bundled OpenSSH" is checked.
 	      </li>
               {% comment %} Choosing HTTPS transport backend {% endcomment %}
               <li>
-		Ensure that "Use the native Windows Secure Channel Library" is selected and click on "Next".
+		On the page that says "Choosing HTTPS transport backend", ensure that nsure that "Use the native Windows Secure Channel Library" is selected and click on "Next".
 	      </li>
               {% comment %} This should mean that people stuck behind corporate firewalls that do MITM attacks
                                  with their own root CA are still able to access remote git repos. {% endcomment %}
               {% comment %} Configuring the line ending conversions {% endcomment %}
               <li>
-                Ensure that "Checkout Windows-style, commit Unix-style line endings" is selected and click on "Next".
+                On the page that says "Configuring the line end conversions", ensure that "Checkout Windows-style, commit Unix-style line endings" is selected and click on "Next".
               </li>
               {% comment %} Configuring the terminal emulator to use with Git Bash {% endcomment %}
               <li>
                 <strong>
-                  Ensure that "Use Windows' default console window" is selected and click on "Next".
+                  On the page that says "Configuring the terminal emulator to use with GitBash", ensure that "Use Windows' default console window" is selected and click on "Next".
                 </strong>
               </li>
               {% comment %} Configuring extra options {% endcomment %}
               <li>
-		Ensure that "Default (fast-forward or merge) is selected and click "Next"
+		On the page that says "Choose the defaulth behavior of 'git pull'", ensure that  "Fast-forward or merge is selected and click "Next"
               </li>
               <li>
-		Ensure that "Git Credential Manager" is selected and click on "Next".
+		On the page that says "Choose a credential helper", ensure that  "Git Credential Manager" is selected and click on "Next".
               </li>
               <li>
-		Ensure that "Enable file system caching" is selected and click on "Next".
+		On the page that says "Configuring extra options", ensure that  "Enable file system caching" is selected and click on "Next".
               </li>
               {% comment %} Configuring experimental options {% endcomment %}
               <li>Click on "Install".</li>
