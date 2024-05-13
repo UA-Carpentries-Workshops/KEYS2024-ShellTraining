@@ -190,10 +190,11 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 <hr/>
 {% endif %}
 
-
+<!--
 <p>
   This Google Doc at <a href="https://docs.google.com/document/d/1A2lRqSD169z466qz53Dw4CtCZUXe40gZzZs2tGukyPA/edit?usp=sharing">https://docs.google.com/document/d/1A2lRqSD169z466qz53Dw4CtCZUXe40gZzZs2tGukyPA/edit?usp=sharing</a> holds additional IMPORTANT information on the workshop and how to prepare for it. 
 <p>
+-->
 
 <!--
 {% comment %}
@@ -232,10 +233,14 @@ change the value of `carpentry` to `incubator`.
     Using the Bash Shell the workshop will introduce these concepts and procedures:<br>
     <br>
     <ul>
+      <li>Graphical User Interface and Command Line<li>
+      <li>Navigation With Commands</li>
       <li>Files and Directories</li>
+      <li>Directory Structure</li>
+      <li>Data Cleanup</li>
+      <li>Proprietary Data Formats</li>
       <li>History and Tab Completion</li>
       <li>Pipes and Redirection</li>
-      <li>Looping Over Files</li>
       <li>Creating and Running Shell Scripts</li>
     </ul> 
     <u>Additional Resources:</u>
