@@ -223,6 +223,7 @@ change the value of `carpentry` to `incubator`.
 
 <hr/>
 
+<!--
 <h3 id="syllabus"><u>Syllabus</u></h3>
 
 <div class="row">
@@ -278,6 +279,7 @@ change the value of `carpentry` to `incubator`.
 
 <hr/>
 
+-->
 
 {% comment %}
 SETUP
