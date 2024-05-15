@@ -225,7 +225,7 @@ change the value of `carpentry` to `incubator`.
 
 
 <h3 id="syllabus"><u>Syllabus</u></h3>
-
+(The listing below entails more material than can be taught during the short introductory workshops and can serve as resources to explore the topics in more detail.)
 <div class="row">
   <div class="col-md-6">
     <h3 id="syllabus-shell">The Command Shell</h3>
@@ -278,6 +278,9 @@ The command shell (a.k.a. UNIX Shell, Bash Shell, Shell) is a power tool that al
 <div class="row">
 <div class="col-md-6">
     <h3 id="syllabus-r">Analyse data with R</h3>
+The goal of this lesson is to introduce writing modular code and best practices for using R for data analysis. R is commonly used in many scientific disciplines for statistical analysis and its array of third-party packages. Note that this session will focus on teaching the fundamentals of the programming language R, and will not teach statistical analysis.
+  <br>
+  The R workshop introduces the following concepts:
         <ul>
 	    <li>Work with vectors and data frames</li>
 	    <li>Read and plot data</li><li>Create and use functions</li>
