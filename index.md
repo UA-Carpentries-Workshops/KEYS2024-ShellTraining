@@ -254,25 +254,23 @@ change the value of `carpentry` to `incubator`.
 	  </ul>
   </div>
   <div class="col-md-6">
-    <h3 id="syllabus-git">Version Control with Git</h3>
-    Version control is the lab notebook of the digital world: it’s what professionals use to keep track of what they’ve done and to collaborate with other people. Every large software development project relies on it, and most programmers use it for their small jobs as well. And it isn’t just for software: books, papers, small data sets, and anything that changes over time or might need to be shared can and should be stored in a version control system.<br>
+    <h3 id="syllabus-git">Remote Computing</h3>
+    Commercial-grade computers are great tools for daily tasks: note taking, word editing, light computation, web searching, and communication. The research world, however, requires machines with larger computational power such as the University of Arizona’s HPC (High-Performance Computing) system. HPCs are used to simulate, compute, extrapolate and generate data using popular research-grade software or novel tools maintained by scientists all around the world.<br>
     <br>
-  Using git (on your local computer) and GitHub (in the cloud), the workshop will introduce these version control concepts and procedures:<br>
+  This section covers the basics for understanding the structure of the UA HPC, including navigation, storage, and job submission. Additionally, we are going to cover GitHub, a powerful platform that researchers and scientists use to communicate and develop scientific software used for research. The Remote Computing section introduces:<br>
     <br>
     <ul>
-      <li>Creating and initializing a Repository: <code>init</code></li>
-      <li>Recording Changes to Files: <code>add</code>, <code>commit</code>, ...</li>
-      <li>Viewing Changes: <code>status</code>, ...</li>
-      <li>Working on the Web: <code>clone</code>, <code>pull</code>, <code>push</code>, ...</li>
+      <li>Creating and connecting to the HPC using Secure Shell</li>
+      <li>The UA HPC structure</li>
+      <li>The SLURM workload manager and commands</li>
+      <li>GitHub and introductory Git commands</li>
     </ul>
     <u>Additional Resources:</u>
 	  <ul>
-		  <li><a href="{{site.swc_pages}}/git-novice/reference">Git Quick Reference</a></li>
-		  <li><a href="{{site.swc_pages}}/git-novice">Git Lessons</a></li>
-      <li><a href="https://git-scm.com/book/en/v2/Git-in-Other-Environments-Git-in-Bash" target="_blank"><i>Mac/Linux:</i> Integrating Git into your shell prompt</a></li>
-		  <li><a href="https://github.com/magicmonty/bash-git-prompt" target="_blank">An informative and fancy bash prompt for Git users</a></li>
-		  <li><a href="https://education.github.com/pack" target="_blank">Unlimited <em>private</em> repositories for free on Github, <i>while you are a student</i></a></li>
-		  <li><a href="https://git-annex.branchable.com/" target="_blank">Git for Archiving Data</a></li>
+      <li><a href="https://hpc.arizona.edu/" target="_blank">The UA HPC official documentation</a></li>
+		  <li><a href="https://uarizona.atlassian.net/wiki/spaces/UAHPC/pages/75989999/HPC+Quick+Start" target="_blank">HPC Quick Start</a></li>
+		  <li><a href="https://swcarpentry.github.io/git-novice/" target="_blank">Git Lessons</a></li>
+		  <li><a href="https://swcarpentry.github.io/git-novice/reference" target="_blank">Git Quick Reference</a></li>
 	  </ul>
   </div>
 </div>
