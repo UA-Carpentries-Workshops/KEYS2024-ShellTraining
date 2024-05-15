@@ -229,7 +229,7 @@ change the value of `carpentry` to `incubator`.
 <div class="row">
   <div class="col-md-6">
     <h3 id="syllabus-shell">The Command Shell</h3>
-    The command shell (a.k.a. UNIX Shell, Bash Shell, Shell) is a power tool that allows computer users to do complex things with just a few keystrokes. Contrary to graphical user interfaces (GUI) it allows users to direct the computer from a more foundational level, using written commands. Even what happens when you click on items in GUIs is directed by written commands. Working in the 'Shell' helps users combine existing programs in new ways and automate repetitive tasks so they aren’t typing the same things over and over again. Shell proficiency is fundamental to using a wide range of other powerful tools and computing resources, including “high-performance computing” supercomputers.<br>
+The command shell (a.k.a. UNIX Shell, Bash Shell, Shell) is a power tool that allows computer users to do complex things with just a few keystrokes. Contrary to graphical user interfaces (GUI) it allows users to direct the computer from a more foundational level, using written commands. Even what happens when you click on items in GUIs is directed by written commands. Working in the 'Shell' helps users combine existing programs in new ways and automate repetitive tasks so they aren’t typing the same things over and over again. Shell proficiency is fundamental to using a wide range of other powerful tools and computing resources, including “high-performance computing” supercomputers.<br>
     <br>
     Using the Bash Shell the workshop will introduce these concepts and procedures:<br>
     <br>
@@ -275,7 +275,32 @@ change the value of `carpentry` to `incubator`.
   </div>
 </div>
 
+<div class="row">
+<div class="col-md-6">
+    <h3 id="syllabus-r">Analyse data with R</h3>
+        <ul>
+	    <li>Work with vectors and data frames</li>
+	    <li>Read and plot data</li><li>Create and use functions</li>
+	    <li>Create loops and conditionals</li>
+	  </ul>
+	  <u>Resources:</u>
+	  <ul>
+		  <li><a href="{{site.swc_pages}}/r-novice-gapminder">R Lessons</a></li>
+		  <li><a href="{{site.swc_pages}}/r-novice-gapminder/reference">R Quick Reference</a></li>
+		  <li><a href="https://www.rdocumentation.org/" target="_blank">R documentation</a></li>
+		  <li><a href="http://blog.moertel.com/posts/2006-01-20-wondrous-oddities-rs-function-call-semantics.html" target="_blank">R function call Semantics</a></li>
+		  <li><a href="https://www.r-bloggers.com/" target="_blank">R News and Tutorials contributed by over 600 R Bloggers</a></li>
+		  <li><a href="http://rmarkdown.rstudio.com/" target="_blank">R Markdown Site/Docs</a></li>
+		  <li><a href="https://www.tutorialspoint.com/r/r_operators.htm" target="_blank">Tutorial: R Operators</a></li>
+		  <li><a href="https://github.com/OHI-Science/ohicore/issues/104" target="_blank">Instructions to fix password error when pushing from RStudio</a></li>
+	  </ul>
+  </div>
+</div>
+
+<p>Syllabus subject to change if necessary.</p>
+
 <hr/>
+
 
 
 {% comment %}
