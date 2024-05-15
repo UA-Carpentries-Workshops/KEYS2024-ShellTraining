@@ -223,7 +223,7 @@ change the value of `carpentry` to `incubator`.
 
 <hr/>
 
-<!--
+
 <h3 id="syllabus"><u>Syllabus</u></h3>
 
 <div class="row">
@@ -234,7 +234,7 @@ change the value of `carpentry` to `incubator`.
     Using the Bash Shell the workshop will introduce these concepts and procedures:<br>
     <br>
     <ul>
-      <li>Graphical User Interface and Command Line<li>
+      <li>Graphical User Interface and Command Line</li>
       <li>Navigation With Commands</li>
       <li>Files and Directories</li>
       <li>Directory Structure</li>
@@ -279,7 +279,6 @@ change the value of `carpentry` to `incubator`.
 
 <hr/>
 
--->
 
 {% comment %}
 SETUP
