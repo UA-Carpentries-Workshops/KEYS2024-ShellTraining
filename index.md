@@ -246,6 +246,7 @@ The command shell (a.k.a. UNIX Shell, Bash Shell, Shell) is a power tool that al
     </ul> 
     <u>Additional Resources:</u>
       <ul>
+		  <li><a href="https://networking.ringofsaturn.com/Unix/learnUNIXin10minutes.php" target="_blank">Learn Unix in 10 minutes</a></li>        
 		  <li><a href="{{site.swc_pages}}/shell-novice/reference">Shell Quick Reference</a></li>
 		  <li><a href="{{site.swc_pages}}/shell-novice">Shell Lessons</a></li>
       <li><a href="http://explainshell.com/" target="_blank"><em>Explain Shell</em> (Parses shell commands and shows docs about the command)</a></li>
